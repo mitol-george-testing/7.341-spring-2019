@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biotechnology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4c126774-238e-847e-dfa4-228ebcf9d161",
+      "7d5a7a34-df12-8b96-ba3d-1a3cdaf398f4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "DNA's Sister Does All the Work: The Central Roles of RNA in Gene Expression ",
+  "course_description": "This course will explore the current frontiers of the world of RNA biology with primary research papers to trace how the original odd detail sometimes leads to major discoveries. As we discuss the different transcripts and processing events that enable this exciting diversity of RNA functions, we invite you to read landmark papers with us, think critically, and ask new questions, as we marvel at the wonders of RNA.  \n  \nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.341",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
